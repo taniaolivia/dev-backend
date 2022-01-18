@@ -1,0 +1,16 @@
+{
+  "name": "td1",
+  "version": "1.0.0",
+  "description": "TD1",
+  "main": "app.js",
+  "scripts": {
+    "start": "node serveur.js",
+    "watch": "nodemon serveur.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tania Olivia",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
